@@ -1,6 +1,7 @@
 ## Edits March 2022 - Evan
 - Adjusted all character widths to 550
 - Centered characters
+- Adjusted vertical spacing
 
 # What it is
 
@@ -39,3 +40,4 @@ File an issue, we'll see.
 
 ### License
 It is licensed under the MIT License.
+
